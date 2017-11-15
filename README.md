@@ -1,5 +1,5 @@
 # beginners-js
-A very basic repo where JS beginners (and others!) can add functionality to a HTML5 page using JavaScript. The intention of this project is to allow less-experienced programmers to practice all parts of front-end, as well as making pull requests and contributing to GitHub projects. Want to become a contributor? Just send me an email with your username at rebecka.nylander at hotmail.com!
+A very basic repo where JS beginners (and others!) can add functionality to an HTML page using JavaScript. The intention of this project is to allow less-experienced programmers to practice all parts of front-end, as well as making pull requests and contributing to GitHub projects. Want to become a contributor? Just send me an email with your username at rebecka.nylander at hotmail.com!
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
